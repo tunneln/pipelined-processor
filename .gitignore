@@ -1,0 +1,15 @@
+# Verilog
+cpu
+mem.hex
+*.vcd
+*.out
+*.raw
+*.cycle
+
+# Vim trash
+[._]*.s[a-w][a-z]
+[._]s[a-w][a-z]
+*.un~
+Session.vim
+.netrwhist
+*~
