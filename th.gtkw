@@ -1,0 +1,44 @@
+[*]
+[*] GTKWave Analyzer v3.3.76 (w)1999-2016 BSI
+[*] Sun Dec  4 19:33:49 2016
+[*]
+[dumpfile] "/home/noel/Dropbox/Computer Science/CS350C/noel_cs350c_f16_p6/testh.vcd"
+[dumpfile_mtime] "Sun Dec  4 19:33:23 2016"
+[dumpfile_size] 8551
+[savefile] "/home/noel/Dropbox/Computer Science/CS350C/noel_cs350c_f16_p6/th.gtkw"
+[timestart] 0
+[size] 1368 752
+[pos] -1 -1
+*-11.823970 6030 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[sst_width] 241
+[signals_width] 150
+[sst_expanded] 1
+[sst_vpaned_height] 202
+@28
+main.clk
+@22
+main.pc[15:0]
+main.curr_pc[15:0]
+main.inst[15:0]
+main.d_inst[15:0]
+main.r_inst[15:0]
+main.x_inst[15:0]
+main.m1_inst[15:0]
+main.wb_inst[15:0]
+@28
+main.stall
+main.d_stall
+@29
+main.r_stall
+@28
+main.wen
+@22
+main.waddr[3:0]
+main.wdata[15:0]
+@28
+main.wen_mem
+@22
+main.waddr_mem[15:0]
+main.wdata_mem[15:0]
+[pattern_trace] 1
+[pattern_trace] 0

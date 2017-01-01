@@ -1,0 +1,50 @@
+[*]
+[*] GTKWave Analyzer v3.3.76 (w)1999-2016 BSI
+[*] Wed Nov  9 01:36:47 2016
+[*]
+[dumpfile] "/home/noel/Dropbox/Computer Science/CS350C/noel_cs350c_f16_p6/test6.vcd"
+[dumpfile_mtime] "Wed Nov  9 01:35:17 2016"
+[dumpfile_size] 12922
+[savefile] "/home/noel/Dropbox/Computer Science/CS350C/noel_cs350c_f16_p6/t6.gtkw"
+[timestart] 37670
+[size] 1368 752
+[pos] -1 -1
+*-12.000000 45820 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[sst_width] 241
+[signals_width] 198
+[sst_expanded] 1
+[sst_vpaned_height] 203
+@28
+main.clk
+@22
+main.pc[15:0]
+main.curr_pc[15:0]
+main.inst[15:0]
+main.d_inst[15:0]
+main.r_inst[15:0]
+main.x_inst[15:0]
+main.m_inst[15:0]
+main.m1_inst[15:0]
+main.wb_inst[15:0]
+@28
+main.d_stall
+main.d_stall_c[2:0]
+main.d_past_stall
+main.x_jmp
+main.x_jeq
+main.wen
+@22
+main.waddr[3:0]
+main.wdata[15:0]
+main.raddr0[3:0]
+main.rdata0[15:0]
+main.raddr1[3:0]
+main.rdata1[15:0]
+main.d_busy[15:0]
+main.memIn[15:0]
+main.memOut[15:0]
+main.d_busy[15:0]
+@23
+main.correct_curr_pc[15:0]
+[pattern_trace] 1
+[pattern_trace] 0
