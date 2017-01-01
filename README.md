@@ -8,13 +8,14 @@ The pipeline handles hazards using forwarding, stalling, and caching.
 
 The branch predictor uses a 2-bit saturating counter and simple jump table to simulate predictions.
 
-Below is a visual demonstration (using gtkwave) _of the pipeline in action
+Below is a visual demonstration (using gtkwave) of the pipeline in action
+
 ![7-stage Pipeline](pipeline.png)
 
 ##Instruction Set
 
 | Encoding         | Instruction | Description									 |
-|:----------------:|:-----------:|:---------------------------------------------:___|
+|:----------------:|:-----------:|:---------------------------------------------:|
 | 0000iiiiiiiitttt | mov i,t     | regs[t] = i; pc += 1;				  		 |
 | 0001aaaabbbbtttt | add a,b,t   | regs[t] = regs[a] + regs[b]; pc += 1;  		 |
 | 0010jjjjjjjjjjjj | jmp j       | pc = j;								  		 |
