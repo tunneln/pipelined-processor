@@ -2,7 +2,7 @@
 
 A comprehensive implementation of a 16-bit RISC pipelined processor with branch prediction and instruction caching using Verilog.
 
-The pipeline is implemented with a 7-stage pipeline - Fetch, Decode, Register, Execute, Mem0 (fetch), Mem1, and Write Back.
+The pipeline is implemented in 7-stages - Fetch, Decode, Register, Execute, Mem0 (fetch), Mem1, and Write Back.
 
 The pipeline handles hazards using forwarding, stalling, and caching.
 
